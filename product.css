@@ -260,6 +260,7 @@ section input{
 }
 section input{
   width:95%;
+  outline:none;
   border:2px solid black;
 }
 section i {
